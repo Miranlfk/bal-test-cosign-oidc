@@ -1,1 +1,1 @@
-#Building and testing Cosign Image signing via OIDC Tokens issued by GitHub
+Building and testing Cosign Image signing via OIDC Tokens issued by GitHub
