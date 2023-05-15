@@ -1,1 +1,1 @@
-# bal-test-cosign-oidc
+#Building and testing Cosign Image signing via OIDC Tokens issued by GitHub
